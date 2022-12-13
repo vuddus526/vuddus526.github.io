@@ -1,3 +1,12 @@
+---
+layout: single
+title: "깃 블로그 첫 게시글"
+categories: TIL
+tag: [java, blog, jekyll]
+toc: true
+---
+
+# 목차 연습하기
 깃 블로그를 처음 작성하고 이것저것 연습을 해보았다
 
 내일부터는 여기에 꾸준히 글을 작성해 볼것이다
@@ -10,4 +19,15 @@ class smaple {
 }
 ```
 
+## 이미지 목차
+### 이미지 세부 목차1
+이미지입니다.
+### 이미지 세부 목차2
+이미지입니다.
+### 이미지 세부 목차3
+이미지입니다.
+
 TISTORY TIL : <https://vuddus526.tistory.com/315>
+
+# 목차 연습하기2
+안녕하세요?
