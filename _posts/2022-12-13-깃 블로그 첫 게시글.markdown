@@ -1,0 +1,13 @@
+깃 블로그를 처음 작성하고 이것저것 연습을 해보았다
+
+내일부터는 여기에 꾸준히 글을 작성해 볼것이다
+
+```java
+class smaple {
+    void sample() {
+        system.out.println("연습하고 있어요");
+    }
+}
+```
+
+TISTORY TIL : <https://vuddus526.tistory.com/315>
