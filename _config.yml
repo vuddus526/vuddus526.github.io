@@ -112,10 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:vuddus526@email.com"
-    - label: "Website"
+      url: "mailto:vuddus526@naver.com"
+    - label: "TISTORY"
       icon: "fas fa-fw fa-link"
-      url: "https://vuddus526.github.io"
+      url: "https://vuddus526.tistory.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vuddus526"
