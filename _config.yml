@@ -25,7 +25,7 @@ url                      : "https://vuddus526.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/움직이는 펭귄.gif"
+logo                     : "/assets/images/펭귄로고.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -105,20 +105,20 @@ analytics:
 # Site Author
 author:
   name             : "PyeongYeon Cho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/움직이는 펭귄.gif"
   bio              : "오늘보다 성장할 내일을 위해"
-  location         : "South Korea"
+  location         : "Republic of Korea"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:vuddus526@naver.com"
-    - label: "TISTORY"
-      icon: "fas fa-fw fa-link"
-      url: "https://vuddus526.tistory.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vuddus526"
+    - label: "TISTORY"
+      icon: "fas fa-fw fa-link"
+      url: "https://vuddus526.tistory.com/"
+    - label: "vuddus526@naver.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vuddus526@naver.com"
 
 
 # Site Footer

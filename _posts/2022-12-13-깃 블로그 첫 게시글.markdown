@@ -2,7 +2,7 @@
 layout: single
 title: "깃 블로그 첫 게시글"
 categories: TIL
-tag: [java, blog, jekyll]
+tag: [blog, jekyll]
 toc: true
 author_profile: true
 sidebar:
