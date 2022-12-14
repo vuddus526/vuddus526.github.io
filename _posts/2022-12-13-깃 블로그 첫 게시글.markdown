@@ -10,6 +10,8 @@ sidebar:
 ---
 
 # 목차 연습하기
+[퀵 스타트 가이드](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/){:target="_blank"}
+
 깃 블로그를 처음 작성하고 이것저것 연습을 해보았다
 
 내일부터는 여기에 꾸준히 글을 작성해 볼것이다
@@ -30,8 +32,8 @@ class smaple {
 ### 이미지 세부 목차3
 이미지입니다.
 
-[TISTORY TIL](https://vuddus526.tistory.com)<br>
-TISTORY TIL : <https://vuddus526.tistory.com>
+[TISTORY TIL](https://vuddus526.tistory.com){:target="_blank"}<br>
+TISTORY TIL : <https://vuddus526.tistory.com>{:target="_blank"}
 
 # 목차 연습하기2
 안녕하세요?
@@ -48,6 +50,6 @@ TISTORY TIL : <https://vuddus526.tistory.com>
     </ul>
 </div>
 
-[버튼입니다](https://www.naver.com){: .btn .btn--info}
+[버튼입니다](https://www.naver.com){: .btn .btn--info}{:target="_blank"}
 
 {% include video id="--MMmHbSH9k" provider="youtube" %}
